@@ -1,5 +1,5 @@
 // Section 3, Team 3 
-//Makenzie Whitman, Lauren Wilson
+//Makenzie Whitman and  Lauren Wilson
 
 namespace Mission4;
 
